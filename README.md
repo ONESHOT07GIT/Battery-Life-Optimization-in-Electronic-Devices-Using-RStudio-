@@ -1,15 +1,23 @@
 # Device-Battery-Life-Optimization-Analysis
 
 This project involves an extensive analysis of battery life in electronic devices using  **RStudio** . Statistical methodologies such as **ANOVA** and **regression** were employed to evaluate the impact of various factors, including  **refresh rate** ,  **brightness** ,  **resolution** , and other performance-affecting variables. The result is a versatile framework aimed at optimizing battery performance across a range of devices.
-
+### Email: adityaanand10122002@gmail.com
 ## Code Repository
 
-* **R Code** : [Link to R Code]()
-* **Data Sheet** : [Google Sheets Link]()
+* **R Code** : [[Link to R Code](https://drive.google.com/file/d/1LebgPPxGw4MQoFOglcLYEKYksO7zaTjj/view?usp=sharing)]()
+* **Data Sheet** : [[Google Sheets Link](https://docs.google.com/spreadsheets/d/1ThiiBSNGycRVdKTfuO7ehhUxzMHMcn7V7B3SWoTHP1k/edit?usp=sharing)]()
+
+1. Download the all Files 
+2. Open the Rstudio and runcode .
+3. Make Changes , adding your own feched data, etc .
+   
+## Requirements
+
+- Rstudio
+- Excel
 
 ### Problem Statement
-
-Due to our frequent use of laptops for various activities, including data science projects and everyday tasks, we have noted significant variations in battery performance. This frequently results in disruptions to our workflow, particularly during travel or when away from a power source. We considered identifying the factors that significantly influence battery life, which we can modify to extend the longevity of my batteries. As we  suspected that certain factors like the display refresh rate, brightness levels, sound settings, and screen resolution might be playing a significant role in draining the battery. However, we don't have clear data to confirm how much each factor contributes to the issue.
+Due to our frequent laptop use for data science projects and daily tasks, battery performance has varied greatly. This often disrupts our workflow, especially when traveling or without power. We explored identifying key battery life aspects that we might change to extend battery life. As we expected, display refresh rate, brightness, sound settings, and screen resolution may consume the battery. Our data does not show how much each element contributes to the problem.
 
 ### Significance of Battery Life
 
